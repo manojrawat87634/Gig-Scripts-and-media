@@ -1,0 +1,10 @@
+"Are you looking for a powerful web application that doesn't just look great, but actually automates and scales your business?
+
+Hi! I’m Manoj Rawat, a Full-Stack Web Developer. I specialize in building high-performance MERN stack and Next.js applications, 
+backed by scalable Java Spring Boot backends and deployed securely on AWS.
+
+Whether you need a custom CRM, an LMS platform, an invoice management tool, or a lightning-fast landing page—I deliver 
+mobile-responsive, SEO-optimized apps with secure user authentication and robust database integration.
+
+Every order includes 100% clean custom code, 5 free revisions, and 14 days of free post-launch support to ensure your business 
+runs smoothly."

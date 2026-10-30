@@ -1,0 +1,6 @@
+Is your web application loading slowly, or are your API endpoints timing out under traffic?
+Slow backend queries and database bottlenecks don't just frustrate users—they spike your server hosting bills and drive customers
+ straight to your competitors.
+I specialize in web performance optimization. I will audit your backend code, fix unoptimized database queries, and implement smart caching to slash 
+your load times and server strain.
+Give your users the lightning-fast experience they expect. Send me a message right now with your app details, and let’s speed it up!

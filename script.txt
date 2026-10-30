@@ -1,0 +1,63 @@
+यहाँ आपके फ़ाइवर (Fiverr) गिग के लिए **हिंदी** और **अंग्रेज़ी** दोनों भाषाओं में व्यावसायिक (Professional) और आकर्षक 60-सेकंड के वीडियो स्क्रिप्ट्स दिए गए हैं।
+
+चूंकि फ़ाइवर पर ज़्यादातर क्लाइंट्स अंतरराष्ट्रीय (International) होते हैं, इसलिए आप **अंग्रेज़ी** स्क्रिप्ट को मुख्य वीडियो के रूप में इस्तेमाल कर सकते हैं। अगर आप भारतीय/दक्षिण एशियाई मार्केट को भी टारगेट करना चाहते हैं, तो हिंदी स्क्रिप्ट आपके लिए बेहतरीन रहेगी।
+
+---
+
+## 🇮🇳 1. Hindi Video Script (हिंदी स्क्रिप्ट)
+
+**टोन:** आत्मविश्वासपूर्ण, प्रोफेशनल और स्पष्ट।
+
+**कुल समय:** लगभग 60 सेकंड।
+
+| समय (Timecode) | वॉइसओवर / डायलॉग (Spoken Audio) | वीडियो/स्क्रीन सुझाव (Visual Suggestions) |
+| --- | --- | --- |
+| **0:00 – 0:08** | "क्या आप अपने बिज़नेस के लिए एक ऐसी वेबसाइट या वेब ऐप ढूंढ रहे हैं, जो सिर्फ दिखे ही नहीं, बल्कि आपके काम को आसान भी बनाए?" | **ऑन-स्क्रीन:** आकर्षक टेक्स्ट एनीमेशन — *"Looking for a Powerful Web App?"* और कुछ मॉडर्न डैशबोर्ड्स की झलक। |
+| **0:08 – 0:20** | "नमस्ते! मैं एक फुल-स्टैक वेब डेवलपर हूँ। मैं Next.js, React और कस्टम बैकएंड की मदद से आपकी ज़रूरतों के हिसाब से वेब एप्लीकेशन बनाता हूँ।" | **ऑन-स्क्रीन:** आपकी साफ और प्रोफेशनल फोटो/वीडियो, या स्क्रीन पर आपकी लाइव पोर्टफोलियो वेबसाइट का डेमो। |
+| **0:20 – 0:38** | "चाहे आपको कस्टम CRM चाहिए, LMS सिस्टम, इनवॉइस मैनेजमेंट या फिर हाई-स्पीड लैंडिंग पेजों की ज़रूरत हो—मैं सुरक्षित JWT ऑथेंटिकेशन और फ़ास्ट डेटाबेस के साथ स्केलेबल ऐप्स तैयार करता हूँ।" | **ऑन-स्क्रीन:** स्क्रीन-रिकॉर्डिंग दिखाएं—लॉगिन पेज, इनवॉइस मैनेजमेंट सिस्टम और डेटाबेस डैशबोर्ड। मुख्य पॉइंट्स पॉप-अप होंगे: *Fast • Mobile Friendly • Secure*. |
+| **0:38 – 0:50** | "आपको मिलेगा 100% कस्टम कोड, फ़ास्ट स्पीड, 5 फ्री रिवीज़न्स और प्रोजेक्ट डिलीवर होने के बाद 14 दिनों का मुफ़्त सपोर्ट—ताकि आप बेफिक्र रह सकें।" | **ऑन-स्क्रीन:** ग्राफ़िक्स एनीमेशन—<br>
+
+<br>✓ 100% Custom Code<br>
+
+<br>✓ 5 Free Revisions<br>
+
+<br>✓ 14 Days Free Support<br>
+
+<br>✓ 24/7 Communication |
+| **0:50 – 1:00** | "तो देर किस बात की? आज ही मुझे मैसेज करें और चलिए आपके आईडिया को एक बेहतरीन वेब ऐप में बदलते हैं!" | **ऑन-स्क्रीन:** अंतिम स्क्रीन जिस पर आपका Fiverr यूज़रनेम और **"Send Message Now"** का बटन हाइलाइट हो। |
+
+---
+
+## 🇬🇧 2. English Video Script (अंग्रेज़ी स्क्रिप्ट)
+
+**Tone:** Confident, professional, direct, and solution-focused.
+
+**Total Duration:** ~60 Seconds.
+
+| Timecode | Spoken Audio (Voiceover / Script) | Visual / On-Screen Suggestions |
+| --- | --- | --- |
+| **0:00 – 0:08** | "Are you looking for a powerful web application that doesn't just look great, but actually automates and scales your business operations?" | **On-Screen:** Dynamic text overlay reading *"Need a Powerful Web App?"* with quick preview cuts of modern app dashboards. |
+| **0:08 – 0:20** | "Hi! I’m a Full-Stack Web Developer. I specialize in building high-performance React and Next.js applications backed by secure, scalable custom backends." | **On-Screen:** Clean shot of you on camera (or professional visual avatar) showing your personal portfolio website. |
+| **0:20 – 0:38** | "Whether you need a custom CRM, an LMS platform, an invoice management tool, or a lightning-fast landing page—I deliver mobile-responsive, SEO-optimized apps with secure user authentication and robust database integration." | **On-Screen:** Fast screen-recording clips of actual working systems: CRM panels, invoice upload flows, and login authentication. Bullet points: *Mobile Responsive • Fast Speed • Custom Logic*. |
+| **0:38 – 0:50** | "Every order includes 100% clean custom code, 5 free revisions, and 14 days of free post-launch support to ensure your business runs smoothly." | **On-Screen:** Clear visual badges/icons:<br>
+
+<br>✓ 100% Custom Design<br>
+
+<br>✓ 5 Free Revisions<br>
+
+<br>✓ 14 Days Free Support<br>
+
+<br>✓ Quick Response Time |
+| **0:50 – 1:00** | "Ready to bring your Web App idea to life? Send me a message right now, and let’s start building your project today!" | **On-Screen:** Closing screen showing your Fiverr Gig title and a prominent **"Contact Me Now"** call-to-action button. |
+
+---
+
+### 💡 वीडियो बनाते समय ध्यान देने योग्य बातें (Tips for Video Creation):
+
+1. **वॉइस रिकॉर्डिंग (Voice/Audio):** अगर आपकी अंग्रेज़ी बोलने में थोड़ी हिचकिचाहट है, तो आप खुद बोलने के बजाय किसी अच्छी AI वॉइस (जैसे ElevenLabs) या फिर किसी वॉइस-ओवर आर्टिस्ट से रिकॉर्ड करवा सकते हैं।
+2. **स्क्रीन रिकॉर्डिंग (Screen Recordings):** आपने जो **CRM या इनवॉइस सिस्टम** बनाए हैं, उनके छोटे-छोटे 3-5 सेकंड के स्क्रीन रिकॉर्डिंग क्लिप्स वीडियो में ज़रूर इस्तेमाल करें। यह क्लाइंट का भरोसा बहुत बढ़ा देता है।
+3. **टेक्स्ट ओवरले (Text Overlays):** मुख्य शब्दों (जैसे *CRM, Next.js, Free Support*) को स्क्रीन पर बड़े और साफ़ अक्षरों में दिखाएं ताकि बिना आवाज़ के भी वीडियो समझ आ सके।
+
+---
+
+क्या आप चाहते हैं कि मैं आपकी इस स्क्रिप्ट को रिकॉर्ड करने के लिए कोई ऑडियो-सजेस्टेड टूल या वॉइस-ओवर गाइडेंस भी शेयर करूँ?

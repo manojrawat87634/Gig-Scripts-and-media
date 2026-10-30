@@ -1,0 +1,14 @@
+Is your website taking more than 3 seconds to load? then You’re not just losing speed you are losing paying clients and Google rankings every single day!"
+
+Hi, I’m Manoj Rawat! I build lightning-fast, high-converting landing pages and modern web apps using Next.js, React, and Tailwind CSS.
+
+Instead of slow, heavy, traditional wordpress sites, I deliver ultra-clean code with next.js server-side rendering, instant page transitions, and complete SEO 
+optimization right out of the box.
+
+Whether you need a custom landing page for a new SaaS product, a high-converting sales page for your business, or a full web app, I build for 
+ONE thing: SPEED THAT CONVERTS.
+
+You get mobile responsiveness, pixel-perfect design, and clean backend integration.
+
+Stop letting slow load times kill your conversions. Send me a message right now with your project details or wireframe, and let’s build a site that leaves your 
+competition in the dust!

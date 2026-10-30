@@ -1,0 +1,6 @@
+Are you struggling to accept payments on your web app, or having trouble connecting your site to external tools and CRMs?
+A clunky checkout experience or broken webhooks directly lead to abandoned carts and lost revenue. Plus, manually copying
+ data between apps wastes hours of your time.
+I will integrate Stripe, PayPal, or any custom API directly into your application. From recurring subscriptions and automated 
+webhooks to connecting CRMs and SMS gateways, I ensure your setup is fast, secure, and fully automated.
+Start collecting revenue automatically today! Send me a message right now with your API or gateway details, and let’s get started!

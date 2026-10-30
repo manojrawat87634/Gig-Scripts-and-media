@@ -1,0 +1,9 @@
+Is your website down right now? Are you seeing a 502 Bad Gateway, a 500 Server Error, or an app that just stopped loading?
+
+Every minute your site is down, you’re losing potential clients, ad spend, and customer trust. Trying to read server logs or 
+troubleshoot tech issues yourself only wastes precious time.
+
+Don’t panic—I’m here to help. I specialize in emergency web and app recovery. I will quickly diagnose your server error, fix broken database 
+connections or deployment crashes, and get your site safely back online.
+
+Send me a message right now with your site link or error message, and let’s get your business back online fast!

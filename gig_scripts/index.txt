@@ -1,0 +1,56 @@
+Here is the revised, optimized set of **7 Outcome-Based Gigs**.
+
+They combine **exact high-volume search phrases** (what non-technical buyers and agency owners type into search bars) with **clear business outcomes** (why they will willingly open their wallets to pay you).
+
+---
+
+### 1. Management Systems & Custom Software
+
+* **Gig Title:** `"I will build a custom management portal, LMS, or CRM for your business"`
+* **Why Buyers Pay:** They waste hours managing spreadsheets or paying expensive monthly SaaS fees. They pay to automate operations and own their software.
+* **Target Audience:** Local coaching centers, small business owners, agencies.
+
+---
+
+2. Emergency Site & App Recovery (Replaced Docker/Nginx Gig)
+Client-Focused Title: "I will fix your crashed website, 500 server errors, or broken web app urgently"
+
+What Client Searches: Fix broken website, 502 bad gateway error, web app crashing, server error fix, emergency web fix.
+
+Business Outcome: Restores lost revenue immediately when their site or app goes down.
+
+Web & App Speed Optimization (Replaced Database/SQL Tuning Gig)
+Client-Focused Title: "I will fix slow loading web apps, database bottlenecks, and speed up backend APIs"
+
+What Client Searches: Speed up web app, slow backend fix, slow database query, website loading slow.
+
+Business Outcome: Prevents lost sales, improves user retention, and lowers server hosting costs.
+
+
+
+4. "I will integrate Stripe payments, fix webhooks, and connect third party APIs to your app"
+
+
+
+5. Secure Membership & Client Web Portals (Replaced Auth/Role Access Gig)
+Client-Focused Title: "I will build a secure client portal with custom staff and user access levels"
+
+What Client Searches: Client dashboard, membership portal, user login system for clients, private staff portal.
+
+Business Outcome: Keeps client data private, gives staff/students dedicated dashboards, and protects sensitive business data.
+
+
+6. High-Converting Landing Pages & Web Apps (Keep)
+Client-Focused Title: "I will build a fast, high-converting landing page or web app for your business"
+
+What Client Searches: Fast landing page builder, custom web app development, Next.js developer, high speed website.
+
+Business Outcome: Converts site traffic into qualified leads and sales with lightning-fast load times.
+
+
+7. SaaS MVP & Startup Web Product Development (New / Replaced Cloud Storage Gig)
+Client-Focused Title: "I will build a full-stack SaaS MVP or custom web application for your startup"
+
+What Client Searches: SaaS MVP developer, build my startup web app, custom web app builder, full stack developer for MVP.
+
+Business Outcome: Helps non-technical founders launch their web product to market quickly without hiring an expensive agency.
