@@ -1,0 +1,42 @@
+====================================================================
+     THE 25-POINT DIGITAL MARKETING & INBOUND AGENCY CHECKLIST
+====================================================================
+
+--- PHASE 1: BRAND & DIGITAL FOOTPRINT INFRASTRUCTURE ---
+[ ] 1. Domain & Brand Setup: Secure `.com` or `.in` domain (e.g., `[AgencyName].com`).
+[ ] 2. Google Workspace Email: Set up `contact@[AgencyName].com` (Never use personal Gmail).
+[ ] 3. 1-Page Service Website: Build a high-speed landing page detailing your 7 outcome-based services.
+[ ] 4. Direct Booking Link: Integrate Calendly/TidyCal with a pre-qualification budget form.
+[ ] 5. Payment Gateway Setup: Activate Razorpay / Stripe to send professional invoice links.
+
+
+--- PHASE 2: GOOGLE BUSINESS PROFILE (GBP) & LOCAL SEO ---
+[ ] 6. Claim & Verify GBP: Register under "Software Company" or "Web Designer".
+[ ] 7. Service Listing: Add all 7 services explicitly with target keywords in descriptions.
+[ ] 8. Local Business Citations: Add business address/phone to Justdial, Sulekha, and Indiamart.
+[ ] 9. Seed Reviews (5 Minimum): Collect 5-star Google reviews from past colleagues/institutes detailing technical quality.
+[ ] 10. Weekly GBP Posts: Publish 1 weekly photo/update showcasing code architecture or past dashboards.
+
+
+--- PHASE 3: PLATFORM OPTIMIZATION (FIVERR / UPWORK / CLUTCH) ---
+[ ] 11. Platform Profile Setup: Create an agency/freelancer profile with professional headshot and agency bio.
+[ ] 12. Create All 7 Gigs: Publish 7 distinct gigs using exact buyer search terms (e.g., "Fix 500 error", "Custom LMS portal").
+[ ] 13. High-CTR Thumbnail Design: Design clean 1280x769px graphics with clear problem-solution text (no plain code screenshots).
+[ ] 14. Add Video Demos: Upload a 30-60 second voiceover video explaining what the client gets for each gig (boosts rank by 200%).
+[ ] 15. FAQ & Requirements Section: Add 5 detailed FAQs per gig to eliminate tire-kickers upfront.
+[ ] 16. B2B Directory Profiles: Register verified agency pages on Clutch.co and GoodFirms.
+
+
+--- PHASE 4: SOCIAL PROOF & INBOUND AUTHORITY ---
+[ ] 17. LinkedIn Profile Optimization: Change headline to "Founder @ [Agency] | Custom CRMs, Web Speed & APIs".
+[ ] 18. Case Study Posts: Post weekly "Before vs After" technical breakdowns of solved bugs or built portals.
+[ ] 19. YouTube Setup: Launch channel and post 3 screen-recording video teardowns of system architectures.
+[ ] 20. Video Descriptions: Place portfolio links and booking CTA links in top 2 lines of YouTube descriptions.
+
+
+--- PHASE 5: ORGANIC LEAD GENERATION & CLIENT CONVERSION ---
+[ ] 21. Ad Library Lead Identification: Search Meta/Google Ad Library for local businesses running ads with bad landing pages.
+[ ] 22. Screen Audit Outreach: Record 60-sec Loom audits pointing out page latency or broken flows, send via email.
+[ ] 23. Staging Demo Conversion: Offer to build live preview demos on your staging server before charging full setup fee.
+[ ] 24. Standard Scope of Work (SOW): Send 50% upfront deposit invoices before starting any client code.
+[ ] 25. Monthly Retainer Upsell: Offer post-launch maintenance for ₹3,000–₹5,000 ($50–$100)/month for backups & updates.
